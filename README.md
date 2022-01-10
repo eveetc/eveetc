@@ -46,11 +46,11 @@
 
 ### Other projects I've been working on:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Tiltification/sonic-tilt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiltification&repo=sonic-tilt" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiltification&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiltification&layout=compact)](https://github.com/Tiltification/sonic-tilt)
 
 ---
 
