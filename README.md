@@ -1,16 +1,43 @@
-### Hi there 👋
+### Hi there, I'm Eve (she/her) 👋
 
-<!--
-**eveetc/eveetc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a computer science engineer!
+- 🔭 I’m currently working on [map uncover][mapuncover]!
+- 🌱 I’m currently writing my master thesis in computer science.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Google Playstore" width="30px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/google-play.svg" />][playstore]
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>][github]
+[<img align="left" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"/>][github]
+[<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>][github]
+[<img align="left" alt="Android" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"/>][github]
+[<img align="left" alt="Flutter" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"/>][github]
+[<img align="left" alt="Linux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg"/>][github]
+[<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"/>][github]
+[<img align="left" alt="MYSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg"/>][github]
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github]
+[<img align="left" alt="TS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>][github]
+[<img align="left" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>][github]
+[<img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>][github]
+[<img align="left" alt="Vue.js" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg"/>][github]
+[<img align="left" alt="TailwindCSS" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>][github]
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"/>][github]
+[<img align="left" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"/>][github]
+[<img align="left" alt="Wordpress" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"/>][github]
+[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>][github]
+[<img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>][github]
+[<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>][github]
+[<img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>][github]
+[<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
+
+[mapuncover]: https://mapuncover.com
+[linkedin]: https://www.linkedin.com/in/eveschade
+[playstore]: https://play.google.com/store/apps/developer?id=mnemeray
+[github]: https://github.com/eveetc
