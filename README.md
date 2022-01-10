@@ -37,6 +37,18 @@
 [<img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>][github]
 [<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
 
+### Stats
+
+<br />
+<br />
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eveetc)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eveetc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [mapuncover]: https://mapuncover.com
 [linkedin]: https://www.linkedin.com/in/eveschade
 [playstore]: https://play.google.com/store/apps/developer?id=mnemeray
