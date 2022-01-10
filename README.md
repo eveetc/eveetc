@@ -1,18 +1,17 @@
 ### Hi there, I'm Eve (she/her) 👋
 
-## I'm a computer science engineer!
-- 🔭 I’m currently working on [map uncover][mapuncover]!
+## I'm a computer science engineer, sysadmin, web & app developer!
+- 🔭 I’m currently working on [map uncover][mapuncover]! 
+- [<img align="center" alt="Google Playstore" width="30px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/google-play.svg" />][playstore] Check out my Google Playstore Apps  
 - 🌱 I’m currently writing my master thesis in computer science.
+- :hourglass_flowing_sand:  Exploring Google Cloud, Microsoft Azure and AWS
 
-### Connect with me:
-
-[<img align="left" alt="Google Playstore" width="30px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/google-play.svg" />][playstore]
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-### Languages and Tools:
-
+### Technologies and tools I use:
+<p>
+  
 [<img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>][github]
 [<img align="left" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg"/>][github]
 [<img align="left" alt="Firebase" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/>][github]
@@ -35,7 +34,8 @@
 [<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>][github]
 [<img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>][github]
 [<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
-
+  
+</p>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -44,7 +44,7 @@
 
 ---
 
-### Other projects I've been working on
+### Other projects I've been working on:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiltification&repo=sonic-tilt" />
@@ -63,3 +63,7 @@
 [linkedin]: https://www.linkedin.com/in/eveschade
 [playstore]: https://play.google.com/store/apps/developer?id=mnemeray
 [github]: https://github.com/eveetc
+
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-eveschade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eveetc/)](https://www.linkedin.com/in/eveschade)
