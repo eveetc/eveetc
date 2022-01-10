@@ -42,9 +42,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
----
-
-### Other projects I've been working on:
+## Other projects I've been working on:
 
 <a href="https://github.com/Tiltification/sonic-tilt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiltification&repo=sonic-tilt" />
@@ -52,11 +50,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiltification&layout=compact)](https://github.com/Tiltification/sonic-tilt)
 
----
+## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eveetc)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eveetc)](https://github.com/eveetc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eveetc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eveetc&layout=compact)](https://github.com/eveetc)
 
 
 [mapuncover]: https://mapuncover.com
