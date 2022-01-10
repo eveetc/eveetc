@@ -54,7 +54,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eveetc)](https://github.com/eveetc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eveetc&layout=compact)](https://github.com/eveetc)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eveetc&layout=compact)](https://github.com/eveetc) -->
 
 
 [mapuncover]: https://mapuncover.com
