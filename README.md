@@ -9,7 +9,9 @@
 
 <br />
 
-### Technologies and tools I use:
+
+
+<h2 align="left">:computer: Technologies and tools I use:</h2>
 <p>
   
 [<img align="left" alt="Dart" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"/>][github]
@@ -41,6 +43,10 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-eveschade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eveetc/)](https://www.linkedin.com/in/eveschade)
+
 
 ## Other projects I've been working on:
 
@@ -62,6 +68,4 @@
 [playstore]: https://play.google.com/store/apps/developer?id=mnemeray
 [github]: https://github.com/eveetc
 
-<h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-eveschade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eveetc/)](https://www.linkedin.com/in/eveschade)
