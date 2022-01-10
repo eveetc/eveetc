@@ -36,7 +36,7 @@
 [<img align="left" alt="C++" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"/>][github]
 [<img align="left" alt="Docker" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>][github]
 [<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
-  
+<br>  
 </p>
 
 <p>&nbsp;</p>
