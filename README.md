@@ -3,7 +3,6 @@
 ## I'm a computer science engineer, sysadmin, web & app developer!
 - 🔭 I’m currently working on [map uncover][mapuncover]! 
 - [<img align="center" alt="Google Playstore" width="30px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/brands/google-play.svg" />][playstore] Check out my Google Playstore Apps  
-- 🌱 I’m currently writing my master thesis in computer science.
 - :hourglass_flowing_sand:  Exploring Google Cloud, Microsoft Azure and AWS
 
 
@@ -38,14 +37,6 @@
 [<img align="left" alt="Tensorflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>][github]
 <br>  
 </p>
-
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h2 align="left">:heart: Let's get connected:</h2>
-
-[![Linkedin Badge](https://img.shields.io/badge/-eveschade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eveetc/)](https://www.linkedin.com/in/eveschade)
 
 
 ## Other projects I've been working on:
