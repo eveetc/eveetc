@@ -1,7 +1,7 @@
 # Hi there, I'm Eve (she/her) 👋
 
-<p align="center">
-  <b>Computer Science Engineer | SysAdmin | Web & App Developer | HCI Doctoral Researcher</b>
+<p >
+  <b>Computer Science Engineer | HCI Doctoral Researcher | SysAdmin | Web & App Developer | </b>
 </p>
 
 - 🔭 I’m currently involved in the development of [Map Uncover][mapuncover].
@@ -10,7 +10,7 @@
 
 ## 🛠️ Technologies & Tools:
 
-<p align="center">
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
