@@ -1,4 +1,4 @@
-# Hi there, I'm Eve (she/her) 👋
+# Hi there, I'm Eve 👋
 
 <p >
   <b>Computer Science Engineer | HCI Doctoral Researcher | SysAdmin | Web & App Developer | </b>
