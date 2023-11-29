@@ -1,12 +1,13 @@
 # Hi there, I'm Eve 👋
 
-<p >
-  <b>Computer Science Engineer | HCI Doctoral Researcher | SysAdmin | Web & App Developer | </b>
-</p>
+<b>Computer Science Engineer | HCI Doctoral Researcher | Co-CEO, CTO, and Co-Founder at Empavion | Web & App Developer</b>
 
-- 🔭 I’m currently involved in the development of [Map Uncover][mapuncover].
-- 📱 Explore my creations on [Google Playstore][playstore] 🚀 
-- 🎓 As an HCI Doctoral Researcher, I'm exploring the impact of navigation technology on spatial cognition & behavior.
+
+- 🔭 Leading [Map Uncover][mapuncover], focused on enhancing spatial literacy.
+- 📱 My app creations are on [Google Playstore][playstore] 🚀 
+- 🎓 PhD in HCI, exploring navigation technology's impact on spatial cognition.
+- 💼 Co-CEO, CTO, and Co-Founder at Empavion, dedicated to innovating at the intersection of technology and user experience ([Empavion][empavion]).
+- 🌐 Visit my portfolio at [eveschade.com][eveschade].
 
 ## 🛠️ Technologies & Tools:
 
@@ -36,20 +37,18 @@
 </p>
 
 
-## ⚙️ Other projects:
+
+## 🗃️ Featured Projects:
+- **[Tiltification](https://github.com/Tiltification/sonic-tilt)**: A project where I led Flutter development and UI design, focusing on auditory cues for spatial orientation, achieving significant recognition and over 10,000 downloads.
 
 <a href="https://github.com/Tiltification/sonic-tilt">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiltification&repo=sonic-tilt" />
 </a>
 <br/>
 
-## 📊 Stats
-
-[![Eve's GitHub stats](https://github-readme-stats.vercel.app/api?username=eveetc)](https://github.com/eveetc)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eveetc&layout=compact)](https://github.com/eveetc) -->
-
 [mapuncover]: https://mapuncover.com
+[empavion]: https://empavion.com
 [linkedin]: https://www.linkedin.com/in/eveschade
 [playstore]: https://play.google.com/store/apps/developer?id=mnemeray
 [github]: https://github.com/eveetc
+[eveschade]: https://eveschade.com
