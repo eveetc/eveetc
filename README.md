@@ -1,6 +1,6 @@
 # Hi there, I'm Eve 👋
 
-<b>Computer Science Engineer | HCI Doctoral Researcher | Co-CEO, CTO, and Co-Founder at Empavion | Web & App Developer</b>
+<b>Computer Science Engineer | HCI Doctoral Researcher | CEO, CTO, and Co-Founder of Empavion | Web & App Developer</b>
 
 
 - 🔭 Leading [Map Uncover][mapuncover], focused on enhancing spatial literacy.
