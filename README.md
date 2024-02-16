@@ -6,7 +6,7 @@
 - 🔭 Leading [Map Uncover][mapuncover], focused on enhancing spatial literacy.
 - 📱 My app creations are on [Google Playstore][playstore] 🚀 
 - 🎓 PhD in HCI, exploring navigation technology's impact on spatial cognition.
-- 💼 Co-CEO, CTO, and Co-Founder at Empavion, dedicated to innovating at the intersection of technology and user experience ([Empavion][empavion]).
+- 💼 CEO, CTO, and Co-Founder at Empavion, dedicated to innovating at the intersection of technology and user experience ([Empavion][empavion]).
 - 🌐 Visit my portfolio at [eveschade.com][eveschade].
 
 ## 🛠️ Technologies & Tools:
