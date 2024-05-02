@@ -1,12 +1,12 @@
 # Hi there, I'm Eve 👋
 
-<b>Computer Science Engineer | HCI Doctoral Researcher | CEO, CTO, and Co-Founder of Empavion | Web & App Developer</b>
+<b>Computer Science Engineer | HCI Doctoral Researcher | CEO, CTO, and Co-Founder of MapUncover | Web & App Developer</b>
 
 
 - 🔭 Leading [Map Uncover][mapuncover], focused on enhancing spatial literacy.
 - 📱 My app creations are on [Google Playstore][playstore] 🚀 
 - 🎓 PhD in HCI, exploring navigation technology's impact on spatial cognition.
-- 💼 CEO, CTO, and Co-Founder at Empavion, dedicated to innovating at the intersection of technology and user experience ([Empavion][empavion]).
+- 💼 CEO, CTO, and Co-Founder at MapUncover, dedicated to innovating at the intersection of technology and user experience ([mapuncover][mapuncover]).
 - 🌐 Visit my portfolio at [eveschade.com][eveschade].
 
 ## 🛠️ Technologies & Tools:
@@ -47,7 +47,7 @@
 <br/>
 
 [mapuncover]: https://mapuncover.com
-[empavion]: https://empavion.com
+[empavion]: https://mapuncover.com
 [linkedin]: https://www.linkedin.com/in/eveschade
 [playstore]: https://play.google.com/store/apps/developer?id=mnemeray
 [github]: https://github.com/eveetc
