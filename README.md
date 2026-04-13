@@ -27,6 +27,3 @@ and [CHI 2023](https://doi.org/10.1145/3544548.3581428).
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-
-[eveschade.com](https://eveschade.com) · [LinkedIn](https://linkedin.com/in/eveschade) · [Google Scholar](https://scholar.google.com/citations?user=gO6J61cAAAAJ)
