@@ -1,54 +1,32 @@
-# Hi there, I'm Eve 👋
+### Hi, I'm Eve.
 
-<b>Computer Science Engineer | HCI Doctoral Researcher | CEO, CTO, and Co-Founder of MapUncover | Web & App Developer</b>
+I build software end-to-end, architecture, design, deployment, and the research that
+tells me whether it's worth building in the first place.
 
+My PhD in HCI looked at how navigation technologies shape the way people learn about
+and move through space. The app that came out of that research ([MapUncover](https://mapuncover.com)) has 10,000+ users across 30 countries. 
 
-- 🔭 Leading [Map Uncover][mapuncover], focused on enhancing spatial literacy.
-- 📱 My app creations are on [Google Playstore][playstore] 🚀 
-- 🎓 PhD in HCI, exploring navigation technology's impact on spatial cognition.
-- 💼 CEO, CTO, and Co-Founder at MapUncover, dedicated to innovating at the intersection of technology and user experience ([mapuncover][mapuncover]).
-- 🌐 Visit my portfolio at [eveschade.com][eveschade].
+More recently: [RideGuide](https://rideguide.fyi), a multimodal conversational
+interface for autonomous vehicles, voice, location context, and vision in one LLM supported 
+pipeline, validated in a lab study (n=12).
 
-## 🛠️ Technologies & Tools:
+Published at [CHI 2025](https://doi.org/10.1145/3706598.3713695),
+[PLoS ONE 2024](https://doi.org/10.1371/journal.pone.0308260),
+and [CHI 2023](https://doi.org/10.1145/3544548.3581428).
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg" alt="Kotlin" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" alt="MYSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-plain.svg" alt="Vue.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="Wordpress" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyter" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" alt="Tensorflow" width="40" height="40"/>
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
 
-
-## 🗃️ Featured Projects:
-- **[Tiltification](https://github.com/Tiltification/sonic-tilt)**: A project where I led Flutter development and UI design, focusing on auditory cues for spatial orientation, achieving significant recognition and over 10,000 downloads.
-
-<a href="https://github.com/Tiltification/sonic-tilt">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tiltification&repo=sonic-tilt" />
-</a>
-<br/>
-
-[mapuncover]: https://mapuncover.com
-[empavion]: https://mapuncover.com
-[linkedin]: https://www.linkedin.com/in/eveschade
-[playstore]: https://play.google.com/store/apps/developer?id=mnemeray
-[github]: https://github.com/eveetc
-[eveschade]: https://eveschade.com
+[eveschade.com](https://eveschade.com) · [LinkedIn](https://linkedin.com/in/eveschade) · [Google Scholar](https://scholar.google.com/citations?user=gO6J61cAAAAJ)
