@@ -6,9 +6,13 @@ tells me whether it's worth building in the first place.
 My PhD in HCI looked at how navigation technologies shape the way people learn about
 and move through space. The app that came out of that research ([MapUncover](https://mapuncover.com)) has 10,000+ users across 30 countries. 
 
-More recently: [RideGuide](https://rideguide.fyi), a multimodal conversational
-interface for autonomous vehicles, voice, location context, and vision in one LLM supported 
-pipeline, validated in a lab study (n=12).
+More recently: [RideGuide](https://www.rideguide.fyi/), a multimodal conversational
+interface for autonomous vehicles that combines voice, location context, and vision
+in one LLM-supported pipeline, evaluated in a lab study (n=12). The
+[Flutter source](https://github.com/eveetc/RideGuide) and
+[archived v1 release](https://doi.org/10.5281/zenodo.15699734) are public; the
+accompanying article is in final production at the *Journal on Multimodal User
+Interfaces*.
 
 Published at [CHI 2025](https://doi.org/10.1145/3706598.3713695),
 [PLoS ONE 2024](https://doi.org/10.1371/journal.pone.0308260),
