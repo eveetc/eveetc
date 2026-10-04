@@ -1,33 +1,36 @@
-### Hi, I'm Eve.
+## Hi, I'm Eve.
+## Product Builder · Applied AI × HCI
 
-I build software end-to-end, architecture, design, deployment, and the research that
-tells me whether it's worth building in the first place.
+I turn research ideas into software people use.
 
-My PhD in HCI looked at how navigation technologies shape the way people learn about
-and move through space. The app that came out of that research ([MapUncover](https://mapuncover.com)) has 10,000+ users across 30 countries. 
+**Currently → AI-Native Product Builder at Adobe**  
 
-More recently: [RideGuide](https://www.rideguide.fyi/), a multimodal conversational
-interface for autonomous vehicles that combines voice, location context, and vision
-in one LLM-supported pipeline, evaluated in a lab study (n=12). The
-[Flutter source](https://github.com/eveetc/RideGuide) and
-[archived v1 release](https://doi.org/10.5281/zenodo.15699734) are public; the
-accompanying article is in final production at the *Journal on Multimodal User
-Interfaces*.
+[Website ↗](https://eveschade.com) &nbsp; · &nbsp;
+[LinkedIn ↗](https://www.linkedin.com/in/eveschade/) &nbsp; · &nbsp;
+[Scholar ↗](https://scholar.google.com/citations?user=gO6J61cAAAAJ&hl=en)
 
-Published at [CHI 2025](https://doi.org/10.1145/3706598.3713695),
-[PLoS ONE 2024](https://doi.org/10.1371/journal.pone.0308260),
-and [CHI 2023](https://doi.org/10.1145/3544548.3581428).
+<br clear="right">
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+### Built before Adobe
+
+**[MapUncover ↗](https://mapuncover.com)** &nbsp; `Independent venture`  
+From doctoral research to an exploration app with **10,000+ users in 30 countries**.  
+
+**[RideGuide ↗](https://www.rideguide.fyi/)** &nbsp; `Doctoral research`  
+A conversational tour guide combining voice, vision, and location context.  
+[Source code ↗](https://github.com/eveetc/RideGuide) ·
+[Paper ↗](https://doi.org/10.1007/s12193-026-00479-2)
+
+### Research behind the build
+
+**Dr. sc. in Computer Science (Human-Computer Interaction)**  
+University of St. Gallen · Navigation technologies and spatial learning
+
+[JMUI ’26](https://doi.org/10.1007/s12193-026-00479-2) ·
+[CHI ’25](https://doi.org/10.1145/3706598.3713695) ·
+[PLOS ONE ’24](https://doi.org/10.1371/journal.pone.0308260) ·
+[CHI ’23](https://doi.org/10.1145/3544548.3581428)
+
+<br>
+
+<sub>Usually building something. Otherwise: drone photography, travel, and urban exploration.</sub>
